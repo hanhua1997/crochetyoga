@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @curthan4ai
+- 👋 Hi, I’m @crochetyoga
 - 👀 I’m interested in ml and ai
 - 🌱 I’m currently learning ml and ai and big data
 - 💞️ I’m looking to collaborate on ml and ai and big data
